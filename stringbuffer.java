@@ -7,8 +7,8 @@ public class stringbuffer{
         StringBuffer sb = new StringBuffer(s);
         sb.reverse();
         System.out.println(sb);
-        if(a.equals(sb)){
-            System.out.println(true);
-        }
+        // if(a.equals(sb)){
+        //     System.out.println(true);
+        // }
     }
 }
